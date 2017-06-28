@@ -1,5 +1,5 @@
 # ✍️ Doodle Recognizer
-A processing app that uses openCV and Google Input-Tools to recoginze your drawings by camera. This project was created a part of the module Media Computing at FHNW by our team.
+A processing app that uses openCV and Google Input-Tools to recoginze your drawings by camera. This project was created a part of the module Media Computing at FHNW by [@mumenthalers](https://github.com/mumenthalers), [@MerzC](https://github.com/MerzC), [@franlopes](https://github.com/franlopes) & [@theyanu](https://github.com/theyanu) .
 
 In order to use it:
 1. Install [Processing](https://processing.org/)
